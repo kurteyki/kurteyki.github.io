@@ -1,0 +1,15 @@
+baseURL = 'https://kurteyki.com/'
+languageCode = 'en-US'
+title = 'Kurteyki'
+theme = 'kurteyki'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = '0.146.0'
