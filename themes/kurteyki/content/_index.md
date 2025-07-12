@@ -5,3 +5,5 @@ draft = false
 +++
 
 Kurteyki dihentikan, terimakasih...
+
+[irfanykywz](https://irfanykywz.github.io)
